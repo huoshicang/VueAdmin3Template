@@ -1,24 +1,12 @@
-# minimalist-version
+<h1 align="center"> VueAdmin3Template </h1>
+<p align="center"><strong>在<em>团队</em>和<em>组织内共享使用人工智能的一站式解决方案。</strong></p>
+<hr />
 
-## Project setup
-```
-yarn install
-```
+![img.png](img.png)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+ 
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## 简介
 
-### Lints and fixes files
-```
-yarn lint
-```
+基于Vue3.0 + NaiveUi + Vue-Router + Pinia + Pinia-plugin-persistedstate
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
